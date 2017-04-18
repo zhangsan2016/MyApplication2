@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "C:\\Users\\ldgd\\Desktop\\project\\studio project\\MyApplication2\\xListView\\src\\main\\res\\layout\\xlistview_header.xml"
+    }
+]
